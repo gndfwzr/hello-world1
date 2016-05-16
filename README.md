@@ -1,2 +1,4 @@
-# hello-world1
-first repo
+my name is frodo
+i like mushrooms
+and smoking pipe
+and not dying.
